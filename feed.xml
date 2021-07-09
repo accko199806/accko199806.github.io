@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://accko199806.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://accko199806.github.io/" rel="alternate" type="text/html" /><updated>2021-07-09T16:14:36+09:00</updated><id>https://accko199806.github.io/feed.xml</id><title type="html">nilvolentibusarduum</title><subtitle>nilvolentibusarduum</subtitle><entry><title type="html">0707</title><link href="https://accko199806.github.io/jekyll/welcome-to-jekyll/" rel="alternate" type="text/html" title="0707" /><published>2021-07-07T16:03:21+09:00</published><updated>2021-07-07T16:03:21+09:00</updated><id>https://accko199806.github.io/jekyll/welcome-to-jekyll</id><content type="html" xml:base="https://accko199806.github.io/jekyll/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">0706</title><link href="https://accko199806.github.io/jekyll/welcome-to-jekyll/" rel="alternate" type="text/html" title="0706" /><published>2021-07-05T16:03:21+09:00</published><updated>2021-07-05T16:03:21+09:00</updated><id>https://accko199806.github.io/jekyll/welcome-to-jekyll</id><content type="html" xml:base="https://accko199806.github.io/jekyll/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Assembly Line Scheduling 문제 해결</title><link href="https://accko199806.github.io/algorithm/welcome-to-jekyll/" rel="alternate" type="text/html" title="Assembly Line Scheduling 문제 해결" /><published>2021-07-01T00:00:00+09:00</published><updated>2021-07-01T00:00:00+09:00</updated><id>https://accko199806.github.io/algorithm/welcome-to-jekyll</id><content type="html" xml:base="https://accko199806.github.io/algorithm/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.
+&lt;img src=&quot;https://i.pinimg.com/originals/0c/9e/64/0c9e64609bf1e2cca138f37516ec2c75.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;jekyll-docs&lt;/a&gt;: https://jekyllrb.com/docs/home
+&lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;jekyll-gh&lt;/a&gt;:   https://github.com/jekyll/jekyll
+&lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;jekyll-talk&lt;/a&gt;: https://talk.jekyllrb.com/
+You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:
+&lt;img src=&quot;https://i.pinimg.com/originals/0c/9e/64/0c9e64609bf1e2cca138f37516ec2c75.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="algorithm" /><category term="problem solving" /><category term="dynamic programming" /><category term="assembly line scheduling" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
